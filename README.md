@@ -7,9 +7,14 @@ A list of online blogging tools.
 
 ## Image Tools
 1. [Cloud Convert](https://cloudconvert.com/webp-to-png) Convert webp to png (and more).
+2. [Upscale Image, Replicate](https://replicate.com/tencentarc/gfpgan)
+3. [Upscale Image, ILoveImg](https://www.iloveimg.com/upscale-image)
 
 ## News Sites
 1. [Mainichi](https://mainichi.jp/english/)
 
 ## Translation
 1. [DeepL Translator](https://www.deepl.com/en/translator)
+
+## Image Sites
+1. [Sakugabooru](https://www.sakugabooru.com/post)
